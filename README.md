@@ -1,4 +1,4 @@
-# 作成方法
+# このフォルダの作成方法
 
 - `npm init`
 - `npm install lite-server`
@@ -18,3 +18,6 @@
 - ２つの terminal ウィンドウで、それぞれ下記のように起動
 - `npm start`
 - `tsc -w`
+
+# clone後にすべきこと
+- `npm i`のみ
